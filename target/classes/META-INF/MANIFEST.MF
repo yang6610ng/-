@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: pc
+Build-Jdk: 11.0.5
+Implementation-Title: clientexample
+Implementation-Version: 1.0
+Implementation-Vendor-Id: com.platformtechlab.msf
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/clientexample
+Created-By: Maven Integration for Eclipse
+
